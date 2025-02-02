@@ -46,7 +46,7 @@ const Download: FunctionComponent<DownloadType> = ({ className = "" }) => {
                   <img
                     className={styles.component1Icon}
                     alt=""
-                    src="/component-1.svg"
+                    src="/component 1 (2).svg"
                   />
                   <div className={styles.storeName}>
                     <div className={styles.downloadOn}>Download on</div>
@@ -58,13 +58,13 @@ const Download: FunctionComponent<DownloadType> = ({ className = "" }) => {
           </div>
         </div>
         <div className={styles.frameGroup}>
-          <img className={styles.frameChild} alt="" src="/group-1369.svg" />
+          <img className={styles.frameChild} alt="" src="/Group 1369.png" />
           <div className={styles.pay4meQrcodeRoundedsvg}>
             <img
               className={styles.component1Icon1}
               loading="lazy"
               alt=""
-              src="/component-1-1@2x.png"
+              src="/Component 6.png"
             />
           </div>
         </div>

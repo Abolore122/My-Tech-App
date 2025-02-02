@@ -40,7 +40,7 @@ const Steps: FunctionComponent<StepsType> = ({ className = "" }) => {
                         className={styles.component1Icon1}
                         loading="lazy"
                         alt=""
-                        src="/component-1-11@2x.png"
+                        src="/Component 1.png"
                       />
                     </div>
                   </div>
@@ -74,7 +74,7 @@ const Steps: FunctionComponent<StepsType> = ({ className = "" }) => {
                                     className={styles.levelsIcon}
                                     loading="lazy"
                                     alt=""
-                                    src="/levels.svg"
+                                    src="/Levels.png"
                                   />
                                   <div className={styles.levelIcons}>
                                     <div className={styles.levelIconsChild} />
@@ -86,7 +86,7 @@ const Steps: FunctionComponent<StepsType> = ({ className = "" }) => {
                                 className={styles.component1Icon2}
                                 loading="lazy"
                                 alt=""
-                                src="/component-1-2.svg"
+                                src="/Component 1 (1).png"
                               />
                             </div>
                           </div>
@@ -137,7 +137,7 @@ const Steps: FunctionComponent<StepsType> = ({ className = "" }) => {
                           className={styles.vuesaxlinearbankIcon}
                           loading="lazy"
                           alt=""
-                          src="/vuesaxlinearbank.svg"
+                          src="/olatech.zip"
                         />
                       </div>
                       <div className={styles.iconLayoutInner}>
@@ -145,7 +145,7 @@ const Steps: FunctionComponent<StepsType> = ({ className = "" }) => {
                           className={styles.frameItem}
                           loading="lazy"
                           alt=""
-                          src="/line-110.svg"
+                          src="/Line 110.svg"
                         />
                       </div>
                       <div className={styles.iconLayoutChild}>
@@ -153,7 +153,7 @@ const Steps: FunctionComponent<StepsType> = ({ className = "" }) => {
                           className={styles.frameInner}
                           loading="lazy"
                           alt=""
-                          src="/frame-1000008488.svg"
+                          src="/Frame 1000008488.png"
                         />
                       </div>
                     </div>
@@ -176,7 +176,7 @@ const Steps: FunctionComponent<StepsType> = ({ className = "" }) => {
                       className={styles.image144Icon}
                       loading="lazy"
                       alt=""
-                      src="/image-144@2x.png"
+                      src="/image 144.png"
                     />
                   </div>
                 </div>
@@ -192,7 +192,7 @@ const Steps: FunctionComponent<StepsType> = ({ className = "" }) => {
                 <img
                   className={styles.component2Icon}
                   alt=""
-                  src="/component-1-3.svg"
+                  src="/Component 1 (2).png"
                 />
               </div>
               <div className={styles.buttonSeparator}>
@@ -202,7 +202,7 @@ const Steps: FunctionComponent<StepsType> = ({ className = "" }) => {
                 <img
                   className={styles.component2Icon}
                   alt=""
-                  src="/component-2.svg"
+                  src="/Component 2.png"
                 />
               </div>
             </div>

@@ -16,7 +16,7 @@ const FrameComponent: FunctionComponent<FrameComponentType> = ({
             className={styles.image136Icon}
             loading="lazy"
             alt=""
-            src="/image-136@2x.png"
+            src="/image 136.png"
           />
           <a className={styles.olatechApp}>OlaTech App</a>
           <div className={styles.homeParent}>

@@ -16,7 +16,7 @@ const FrameComponent2: FunctionComponent<FrameComponent2Type> = ({
             className={styles.image137Icon}
             loading="lazy"
             alt=""
-            src="/image-137@2x.png"
+            src="/image 137.png"
           />
         </div>
         <div className={styles.image138Wrapper}>
@@ -24,7 +24,7 @@ const FrameComponent2: FunctionComponent<FrameComponent2Type> = ({
             className={styles.image137Icon}
             loading="lazy"
             alt=""
-            src="/image-138@2x.png"
+            src="/image 138.png"
           />
         </div>
         <div className={styles.image139Wrapper}>
@@ -32,16 +32,16 @@ const FrameComponent2: FunctionComponent<FrameComponent2Type> = ({
             className={styles.image137Icon}
             loading="lazy"
             alt=""
-            src="/image-139@2x.png"
+            src="/image 139.png"
           />
         </div>
         <div className={styles.image140Parent}>
-          <img className={styles.image140Icon} alt="" src="/image-140@2x.png" />
+          <img className={styles.image140Icon} alt="" src="/image 140.png" />
           <img
             className={styles.image141Icon}
             loading="lazy"
             alt=""
-            src="/image-141@2x.png"
+            src="/image 141.png"
           />
         </div>
       </div>
@@ -50,7 +50,7 @@ const FrameComponent2: FunctionComponent<FrameComponent2Type> = ({
           className={styles.image137Icon}
           loading="lazy"
           alt=""
-          src="/image-142@2x.png"
+          src="/image 142.png"
         />
       </div>
     </section>

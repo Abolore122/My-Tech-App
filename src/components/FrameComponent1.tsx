@@ -35,7 +35,7 @@ const FrameComponent1: FunctionComponent<FrameComponent1Type> = ({
                     <img
                       className={styles.image151Icon}
                       alt=""
-                      src="/image-151@2x.png"
+                      src="image 151.png"
                     />
                     <div className={styles.fundImageTwo} />
                   </div>
@@ -53,7 +53,7 @@ const FrameComponent1: FunctionComponent<FrameComponent1Type> = ({
                 className={styles.image9Icon}
                 loading="lazy"
                 alt=""
-                src="/image-9@2x.png"
+                src="/image 9.png"
               />
               <div className={styles.starRating}>
                 <div className={styles.iconoirstarSolidParent}>
@@ -100,7 +100,7 @@ const FrameComponent1: FunctionComponent<FrameComponent1Type> = ({
           className={styles.image134Icon}
           loading="lazy"
           alt=""
-          src="/image-134@2x.png"
+          src="/image 134.png"
         />
         <div className={styles.backedByTechstarsContainer}>
           <p className={styles.backedBy}>Backed by</p>

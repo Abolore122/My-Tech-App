@@ -23,17 +23,17 @@ const Offers: FunctionComponent<OffersType> = ({ className = "" }) => {
             </div>
           </div>
         </section>
-        <div className={styles.features}>
-          <div className={styles.featuresContent}>
+        <div className={styles.innerContentWrapper}>
+          <div className={styles.innerContent}>
             <img
-              className={styles.featuresContentChild}
+              className={styles.innerContentChild}
               alt=""
               src="/group-1372.svg"
             />
             <div className={styles.frameContainer}>
-              <div className={styles.frameDiv}>
-                <div className={styles.frameWrapper1}>
-                  <div className={styles.frameParent1}>
+              <div className={styles.deepNestedParent}>
+                <div className={styles.deepNested}>
+                  <div className={styles.paymentOptions}>
                     <div className={styles.frameFrame}>
                       <img
                         className={styles.frameIcon}
@@ -72,7 +72,7 @@ const Offers: FunctionComponent<OffersType> = ({ className = "" }) => {
                     src="/image-3@2x.png"
                   />
                 </div>
-                <div className={styles.frameParent2}>
+                <div className={styles.imageActions}>
                   <div className={styles.imageWrapper}>
                     <img
                       className={styles.imageIcon1}
@@ -82,7 +82,7 @@ const Offers: FunctionComponent<OffersType> = ({ className = "" }) => {
                     />
                   </div>
                   <img
-                    className={styles.frameInner}
+                    className={styles.imageActionsChild}
                     loading="lazy"
                     alt=""
                     src="/group-1370-1.svg"
@@ -93,7 +93,7 @@ const Offers: FunctionComponent<OffersType> = ({ className = "" }) => {
           </div>
         </div>
       </main>
-      <button className={styles.footer}>
+      <button className={styles.appDownloadWrapper}>
         <div className={styles.appDownload}>
           <div className={styles.downloadButton}>
             <div className={styles.downloadApp}>Download app</div>

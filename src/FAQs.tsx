@@ -24,7 +24,7 @@ const FAQs: FunctionComponent = () => {
           className={styles.image154Icon}
           loading="lazy"
           alt=""
-          src="/image-154@2x.png"
+          src="/image 154.png"
         />
         <div className={styles.appQuestions}>
           <b className={styles.whatIsOlatech}>What is Olatech App ?</b>

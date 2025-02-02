@@ -63,23 +63,23 @@ const Hero: FunctionComponent = () => {
                     <img
                       className={styles.frameChild}
                       alt=""
-                      src="/ellipse-376@2x.png"
+                      src="/ellipse 376.png"
                     />
                     <img
                       className={styles.frameItem}
                       alt=""
-                      src="/ellipse-377@2x.png"
+                      src="/ellipse 377.png"
                     />
                     <img
                       className={styles.frameInner}
                       alt=""
-                      src="/ellipse-378@2x.png"
+                      src="/ellipse 378.png"
                     />
                     <img
                       className={styles.ellipseIcon}
                       loading="lazy"
                       alt=""
-                      src="/ellipse-379@2x.png"
+                      src="/ellipse 379.png"
                     />
                   </div>
                   <h3 className={styles.trustedBy3m}>

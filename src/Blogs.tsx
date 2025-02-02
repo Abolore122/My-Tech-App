@@ -26,7 +26,7 @@ const Blogs: FunctionComponent = () => {
             className={styles.image155Icon}
             loading="lazy"
             alt=""
-            src="/image-155@2x.png"
+            src="/image 155.png"
           />
           <div className={styles.frameContainer}>
             <div className={styles.howToGetFinancialRseourcesParent}>
@@ -36,7 +36,7 @@ const Blogs: FunctionComponent = () => {
                   className={styles.arrowRight02SharpIcon}
                   loading="lazy"
                   alt=""
-                  src="/arrowright02sharp@2x.png"
+                  src="/arrow-right-02-sharp.png"
                 />
               </div>
             </div>
@@ -49,7 +49,7 @@ const Blogs: FunctionComponent = () => {
                 className={styles.image156Icon}
                 loading="lazy"
                 alt=""
-                src="/image-156@2x.png"
+                src="/image 156.png"
               />
             </div>
             <div className={styles.cryptoHeadingContainerParent}>
@@ -63,7 +63,7 @@ const Blogs: FunctionComponent = () => {
                   className={styles.arrowRight02SharpIcon}
                   loading="lazy"
                   alt=""
-                  src="/arrowright02sharp-1@2x.png"
+                  src="/arrow-right-02sharp.png"
                 />
               </div>
             </div>
@@ -83,7 +83,7 @@ const Blogs: FunctionComponent = () => {
                   className={styles.arrowLeftIcon}
                   loading="lazy"
                   alt=""
-                  src="/arrowright.svg"
+                  src="/arrow-right-02-sharp.png"
                 />
               </div>
             </div>
@@ -94,7 +94,7 @@ const Blogs: FunctionComponent = () => {
             className={styles.image157Icon}
             loading="lazy"
             alt=""
-            src="/image-157@2x.png"
+            src="/image 157.png"
           />
           <div className={styles.heading4KnowingWhichCoveParent}>
             <b className={styles.howToGet}>
@@ -105,7 +105,7 @@ const Blogs: FunctionComponent = () => {
                 className={styles.arrowRight02SharpIcon}
                 loading="lazy"
                 alt=""
-                src="/arrowright02sharp-2@2x.png"
+                src="/arrow-right-02-sharp.png"
               />
             </div>
           </div>
