@@ -38,6 +38,7 @@ function Navbar() {
           <li><Link to="/download">Download</Link></li>
           <li><Link to="/testimonies">Testimonies</Link></li>
           <li><Link to="/faqs">FAQs</Link></li>
+          <li><Link to="/footers">Footers</Link></li>
         </ul>
       </div>
     </nav>
